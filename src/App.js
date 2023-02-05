@@ -4,13 +4,18 @@ import './App.css';
 function App() {
   return (
     <div className="flex--container">
-      
-      <div className='container--right '>
 
-      </div>
-      <div className='container--left'>
+      <section className='container--left'>
 
-      </div>
+      </section>
+
+      <section className='container--right '>
+
+        <div className='div--img1'>
+
+        </div>
+
+      </section >
     </div>
   );
 }
