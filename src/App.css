@@ -1,0 +1,11 @@
+::-webkit-scrollbar{
+  width: 0px;
+  height: 0px;
+}
+body{
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  left: 65px;
+  background: #23252C;
+}
