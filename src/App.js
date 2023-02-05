@@ -3,9 +3,13 @@ import './App.css';
 
 function App() {
   return (
-    <div className="flex-container">
-      <div>
-        
+    <div className="flex--container">
+      
+      <div className='container--right '>
+
+      </div>
+      <div className='container--left'>
+
       </div>
     </div>
   );
