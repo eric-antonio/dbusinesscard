@@ -7,6 +7,12 @@ export default function InfoPage(){
             <div className="profile--picture">
 
             </div>
+
+            <section className="info--profile">
+                <h4>Laura Smith</h4>
+                <p>Frontend Developer</p>
+                <small>laurasmith.website</small>
+            </section>
         </di>
     )
 }
