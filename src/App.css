@@ -19,7 +19,7 @@ body{
 .container--left{
   border: 1px solid black;
   border-radius: 10px;
-  background-color: lightgray;
+  background-color: #1A1B21;
   width: 300px;
   height: 600px;
   margin: 10px;
@@ -37,3 +37,8 @@ body{
 }
 
 /* ? Info profile  */
+.info--profile{
+  color: white;
+  text-align: center;
+  line-height: 1%;
+}
