@@ -49,6 +49,7 @@ body{
 }
 
 .job{
+  font-size: 14px;
   color:#F3BF99 ;
 }
 /* ? Buttons  */
@@ -95,5 +96,12 @@ border-radius: 6px;
   margin-top: 90px;
 }
 
+.div--about h3{
+  margin-left: 30px;
+}
 
 
+.about--p{
+  font-size: 13px;
+  margin-left: 30px;
+}
