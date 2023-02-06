@@ -13,6 +13,12 @@ export default function InfoPage(){
                 <p className="job">Frontend Developer</p>
                 <small>laurasmith.website</small>
             </section>
+
+
+            <div class="btn-group">
+                <button>Email</button>
+                <button>Linkedin</button>
+            </div>
         </di>
     )
 }
