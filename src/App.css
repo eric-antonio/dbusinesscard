@@ -17,7 +17,7 @@ body{
 }
 
 .container--left{
-  border: 2px solid black;
+  border: 1px solid black;
   border-radius: 10px;
   background-color: lightgray;
   width: 300px;
@@ -27,5 +27,12 @@ body{
   display: inline-block;
 
 }
-
+/* ? Applying a Profile Picture */
+.profile--picture{
+  display: block;
+  background:#23252C url(../src/img/foto.jpg) no-repeat ;
+  background-size: cover;
+  height: 250px;
+  border-radius: 10px 10px 0px 0px;
+}
 

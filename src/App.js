@@ -6,7 +6,7 @@ function App() {
     <div className="flex--container">
 
       <section className='container--left'>
-
+        <InfoPage/>
       </section>
 
     </div>
