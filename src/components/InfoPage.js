@@ -16,7 +16,10 @@ export default function InfoPage(){
 
 
             <div>
-                <button className="btn--email">Email</button>
+                <button className="btn--email">
+                    <a href="#" class="fa fa-envelope" id="email"></a>
+                    Email
+                </button>
                 <button className="btn--link">Linkedin</button>
             </div>
         </di>
