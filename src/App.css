@@ -22,7 +22,7 @@ body{
 }
 
 .container--left{
-  border: 1px solid black;
+  border: 0px solid black;
   border-radius: 10px;
   background-color: #1A1B21;
   width: 300px;
@@ -46,4 +46,8 @@ body{
   color: white;
   text-align: center;
   line-height: 1%;
+}
+
+.job{
+  color:#F3BF99 ;
 }

@@ -10,7 +10,7 @@ export default function InfoPage(){
 
             <section className="info--profile">
                 <h4>Laura Smith</h4>
-                <p>Frontend Developer</p>
+                <p className="job">Frontend Developer</p>
                 <small>laurasmith.website</small>
             </section>
         </di>
