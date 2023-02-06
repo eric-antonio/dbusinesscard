@@ -47,13 +47,20 @@ body{
   text-align: center;
   line-height: 1%;
 }
-
+.name{
+  font-size: 22px;
+}
 .job{
   font-size: 14px;
   color:#F3BF99 ;
 }
+.site{
+  line-height: 0.4rem;
+}
 /* ? Buttons  */
-
+button{
+  
+}
 .btn--email{
 display: flex;
 flex-direction: row;
@@ -65,7 +72,7 @@ position: absolute;
 width: 115px;
 height: 34px;
 left: 323px;
-top: 410px;
+top: 416px;
 background: #FFFFFF;
 border: 1px solid #D1D5DB;
 box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
@@ -73,6 +80,7 @@ border-radius: 6px;
 }
 
 .btn--link{
+  color: white;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -83,7 +91,7 @@ border-radius: 6px;
   width: 115px;
   height: 37px;
   left: 448px;
-  top: 410px;
+  top: 415px;
   background: #5093E2;
   box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
   border-radius: 6px;
@@ -94,6 +102,19 @@ border-radius: 6px;
   height: 15px;
   color: #676e75;
   background: white;
+  text-align: center;
+  text-decoration: none;
+  margin: 10px 0px 10px 5px ;
+  border-radius: 3px;
+
+}
+
+#linkedin{
+  font-size: 15px;
+  width: 15px;
+  height: 15px;
+  color: #ffffff;
+  background: #5093E2;
   text-align: center;
   text-decoration: none;
   margin: 10px 0px 10px 5px ;

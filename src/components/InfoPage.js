@@ -9,9 +9,9 @@ export default function InfoPage(){
             </div>
 
             <section className="info--profile">
-                <h4>Laura Smith</h4>
+                <h4 className="name">Laura Smith</h4>
                 <p className="job">Frontend Developer</p>
-                <small>laurasmith.website</small>
+                <small className="site">laurasmith.website</small>
             </section>
 
 
@@ -20,7 +20,10 @@ export default function InfoPage(){
                     <a href="#" class="fa fa-envelope" id="email"></a>
                     Email
                 </button>
-                <button className="btn--link">Linkedin</button>
+                <button className="btn--link">
+                    <a href="#" class="fa fa-linkedin" id="linkedin"></a>
+                    Linkedin
+                </button>
             </div>
         </di>
     )
