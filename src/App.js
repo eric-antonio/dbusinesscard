@@ -9,13 +9,6 @@ function App() {
 
       </section>
 
-      <section className='container--right '>
-
-        <div className='div--img1'>
-
-        </div>
-
-      </section >
     </div>
   );
 }
