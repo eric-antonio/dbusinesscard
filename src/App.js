@@ -1,6 +1,7 @@
 import './App.css';
 import InfoPage from './components/InfoPage';
 import About from './components/About';
+import Footer from './components/Footer';
 
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
       <section className='container--left'>
         <InfoPage/>
         <About/>
+        <Footer/>
       </section>
 
     </div>
