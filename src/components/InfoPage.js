@@ -15,9 +15,9 @@ export default function InfoPage(){
             </section>
 
 
-            <div class="btn-group">
-                <button>Email</button>
-                <button>Linkedin</button>
+            <div>
+                <button className="btn--email">Email</button>
+                <button className="btn--link">Linkedin</button>
             </div>
         </di>
     )
